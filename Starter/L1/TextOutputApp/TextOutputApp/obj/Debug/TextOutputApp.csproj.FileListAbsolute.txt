@@ -1,0 +1,14 @@
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\bin\Debug\TextOutputApp.exe.config
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\bin\Debug\TextOutputApp.exe
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\bin\Debug\TextOutputApp.pdb
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp.csprojAssemblyReference.cache
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\MainWindow.g.cs
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\App.g.cs
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp_MarkupCompile.cache
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp_MarkupCompile.lref
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\MainWindow.baml
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp.g.resources
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp.Properties.Resources.resources
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp.csproj.GenerateResource.cache
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp.exe
+D:\C#\repos\cb\Starter\L1\TextOutputApp\TextOutputApp\obj\Debug\TextOutputApp.pdb
