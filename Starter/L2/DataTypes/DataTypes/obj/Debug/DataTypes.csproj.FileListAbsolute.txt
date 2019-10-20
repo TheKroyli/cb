@@ -1,0 +1,6 @@
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypes\obj\Debug\DataTypes.csprojAssemblyReference.cache
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypes\obj\Debug\DataTypes.pdb
