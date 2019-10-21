@@ -1,0 +1,14 @@
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\bin\Debug\DataTypesForm.exe.config
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\bin\Debug\DataTypesForm.exe
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\bin\Debug\DataTypesForm.pdb
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm.csprojAssemblyReference.cache
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\MainWindow.g.cs
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\App.g.cs
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm_MarkupCompile.cache
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm_MarkupCompile.lref
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\MainWindow.baml
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm.g.resources
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm.Properties.Resources.resources
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm.csproj.GenerateResource.cache
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm.exe
+D:\C#\repos\cb\Starter\L2\DataTypes\DataTypesForm\obj\Debug\DataTypesForm.pdb
