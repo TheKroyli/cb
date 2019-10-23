@@ -1,0 +1,6 @@
+D:\C#\repos\cb\Starter\L3\Volume\Volume\bin\Debug\Volume.exe.config
+D:\C#\repos\cb\Starter\L3\Volume\Volume\bin\Debug\Volume.exe
+D:\C#\repos\cb\Starter\L3\Volume\Volume\bin\Debug\Volume.pdb
+D:\C#\repos\cb\Starter\L3\Volume\Volume\obj\Debug\Volume.csprojAssemblyReference.cache
+D:\C#\repos\cb\Starter\L3\Volume\Volume\obj\Debug\Volume.exe
+D:\C#\repos\cb\Starter\L3\Volume\Volume\obj\Debug\Volume.pdb
