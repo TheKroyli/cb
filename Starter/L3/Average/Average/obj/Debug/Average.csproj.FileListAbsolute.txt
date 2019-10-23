@@ -1,0 +1,6 @@
+D:\C#\repos\cb\Starter\L3\Average\Average\bin\Debug\Average.exe.config
+D:\C#\repos\cb\Starter\L3\Average\Average\bin\Debug\Average.exe
+D:\C#\repos\cb\Starter\L3\Average\Average\bin\Debug\Average.pdb
+D:\C#\repos\cb\Starter\L3\Average\Average\obj\Debug\Average.csprojAssemblyReference.cache
+D:\C#\repos\cb\Starter\L3\Average\Average\obj\Debug\Average.exe
+D:\C#\repos\cb\Starter\L3\Average\Average\obj\Debug\Average.pdb
