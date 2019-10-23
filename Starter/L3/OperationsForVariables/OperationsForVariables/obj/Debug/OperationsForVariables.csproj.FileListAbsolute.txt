@@ -1,0 +1,6 @@
+D:\C#\repos\cb\Starter\L3\OperationsForVariables\OperationsForVariables\bin\Debug\OperationsForVariables.exe.config
+D:\C#\repos\cb\Starter\L3\OperationsForVariables\OperationsForVariables\bin\Debug\OperationsForVariables.exe
+D:\C#\repos\cb\Starter\L3\OperationsForVariables\OperationsForVariables\bin\Debug\OperationsForVariables.pdb
+D:\C#\repos\cb\Starter\L3\OperationsForVariables\OperationsForVariables\obj\Debug\OperationsForVariables.csprojAssemblyReference.cache
+D:\C#\repos\cb\Starter\L3\OperationsForVariables\OperationsForVariables\obj\Debug\OperationsForVariables.exe
+D:\C#\repos\cb\Starter\L3\OperationsForVariables\OperationsForVariables\obj\Debug\OperationsForVariables.pdb
