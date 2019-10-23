@@ -1,0 +1,6 @@
+D:\C#\repos\cb\Starter\L3\AreaOfACircle\AreaOfACircle\obj\Debug\AreaOfACircle.csprojAssemblyReference.cache
+D:\C#\repos\cb\Starter\L3\AreaOfACircle\AreaOfACircle\bin\Debug\AreaOfACircle.exe.config
+D:\C#\repos\cb\Starter\L3\AreaOfACircle\AreaOfACircle\bin\Debug\AreaOfACircle.exe
+D:\C#\repos\cb\Starter\L3\AreaOfACircle\AreaOfACircle\bin\Debug\AreaOfACircle.pdb
+D:\C#\repos\cb\Starter\L3\AreaOfACircle\AreaOfACircle\obj\Debug\AreaOfACircle.exe
+D:\C#\repos\cb\Starter\L3\AreaOfACircle\AreaOfACircle\obj\Debug\AreaOfACircle.pdb
