@@ -1,0 +1,11 @@
+﻿using System;
+
+namespace AreaOfACircle
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
